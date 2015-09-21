@@ -1,0 +1,10 @@
+{
+  "name": "ilovereact",
+  "version": "1.0.0",
+  "description": "ilovereact",
+  "author": "zhangrgk",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.9.4"
+  }
+}
